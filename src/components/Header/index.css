@@ -1,0 +1,31 @@
+.header-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.wave-image {
+  height: 60px;
+  width: 60px;
+}
+.image-card {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+}
+
+.heading {
+  color: #12022f;
+  font-size: 25px;
+  font-family: Roboto;
+  margin: 15px;
+}
+
+.item {
+  list-style-type: none;
+}
+.components-card {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+}
